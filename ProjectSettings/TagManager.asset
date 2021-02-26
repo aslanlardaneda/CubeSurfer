@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Food
+  - Obstacle
+  - NotFood
+  - ObsTrigger1
+  - ObsTrigger2
+  - ObsTrigger3
+  - ObsTrigger4
+  - ObsTrigger5
+  - ObsTrigger6
+  - ObsTrigger7
+  - ObsTrigger8
+  - ObsTrigger9
+  - ObsTrigger10
+  - FinalObstacle_10X
+  - EndTrigger
+  - FinalObstacle_1X
+  - FinalObstacle_2X
+  - FinalObstacle_3X
+  - FinalObstacle_4X
+  - FinalObstacle_5X
+  - FinalObstacle_X
+  - LittleObstacle
+  - UpperPlayerTrigger
+  - UpperPlayerFinalTrigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
